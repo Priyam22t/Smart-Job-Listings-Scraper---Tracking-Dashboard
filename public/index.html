@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Job Listings Dashboard</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+<header class="navbar">
+  <div class="nav-left">
+    <h1>JobBoard</h1>
+    <span class="subtitle">Smart Job Tracker</span>
+  </div>
+
+  <div class="nav-controls">
+    <input id="search" placeholder="Search jobs…" />
+
+    <select id="source">
+      <option value="">All Sources</option>
+      <option>Indeed</option>
+      <option>LinkedIn</option>
+      <option>Company</option>
+    </select>
+
+    <select id="location">
+      <option value="">All Locations</option>
+      <option>Remote</option>
+      <option>San Francisco</option>
+      <option>New York</option>
+      <option>Seattle</option>
+    </select>
+
+    <button id="alertBtn">🔔 Alerts</button>
+  </div>
+</header>
+
+<section class="analytics" id="analytics"></section>
+
+<main id="jobs"></main>
+
+<div id="alertModal" class="modal hidden">
+  <div class="modal-content">
+    <h2>Job Alerts</h2>
+    <input id="alertInput" placeholder="e.g. backend, new grad" />
+    <button id="saveAlert">Save Alert</button>
+    <button id="closeAlert">Close</button>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

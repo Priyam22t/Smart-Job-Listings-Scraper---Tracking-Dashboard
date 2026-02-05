@@ -1,0 +1,842 @@
+[
+  {
+    "jobTitle": "Software Engineer, New Grad",
+    "company": "Stripe",
+    "location": "San Francisco, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-stripe-4294691515?position=1&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=WhJDO4vpkG8Izf5jLEwZFw%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer, New Grad",
+    "company": "Stripe",
+    "location": "Seattle, WA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-stripe-4294691514?position=2&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=FQn%2FbTTOPg5NZgokMkuIsw%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer, Backend",
+    "company": "Tinder",
+    "location": "Los Angeles, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-backend-at-tinder-4328991043?position=3&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=N92CuFVR%2BxyrmccjYRpeIw%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer (L4) - Personalization",
+    "company": "Netflix",
+    "location": "United States",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-l4-personalization-at-netflix-4356062884?position=4&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=%2BXuBte2iYQ7ts0fI7sYGqA%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer, Backend",
+    "company": "Tinder",
+    "location": "Palo Alto, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-backend-at-tinder-4328991042?position=5&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=fABXTk44jSJ9YtsfmPG1dA%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer - Frontend",
+    "company": "LinkedIn",
+    "location": "Mountain View, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-linkedin-4365237330?position=6&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=svY0vrTMt0LIbuj3RupMnw%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer 1",
+    "company": "Intuit",
+    "location": "New York, NY",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-1-at-intuit-4333562794?position=7&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=KfmnIKN9qtOoiHHu14CCEg%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer I",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-i-at-microsoft-4354953402?position=8&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=m1DdWfVbrxJvICXrtMUmZA%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer I",
+    "company": "Twitch",
+    "location": "San Francisco, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-i-at-twitch-4325252246?position=9&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=E3GO0WteQnLVeeNmvuIdIA%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer I",
+    "company": "Twitch",
+    "location": "San Francisco, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-i-at-twitch-4330534239?position=10&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=fdXrp913hJihHsRHecLOfg%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer, Autonomy-New Grad",
+    "company": "Nuro",
+    "location": "Mountain View, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-autonomy-new-grad-at-nuro-4327790555?position=11&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=Z5sEL1drhwTNqZOpDxPGkA%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer I - Open Distribution (New Grad)",
+    "company": "StubHub",
+    "location": "Los Angeles, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-i-open-distribution-new-grad-at-stubhub-4359364349?position=12&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=L%2FhsE8%2FGfti7eN3yBxZiNg%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer (All Levels)",
+    "company": "Blossom",
+    "location": "New York, NY",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-all-levels-at-blossom-4366266685?position=13&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=62fj%2FXGaJevnoFizt6194Q%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "company": "Google",
+    "location": "Mountain View, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-at-google-4367601319?position=14&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=5j1w9rfcABDl53AQJJrwBg%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Developer",
+    "company": "Point72",
+    "location": "New York, United States",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-developer-at-point72-4145965925?position=15&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=HxMgMuaL47i9%2FEgQTPSQlA%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer I & II",
+    "company": "Sony Interactive Entertainment",
+    "location": "United States",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-i-ii-at-sony-interactive-entertainment-4347623779?position=16&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=7pNglHzZ1G5DQ5Jni1og%2BQ%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "company": "Middesk",
+    "location": "New York, United States",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-at-middesk-4205003719?position=17&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=CzC0DJTTha4jMwrvUJXA6A%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Full-Stack Software Engineer",
+    "company": "Apple",
+    "location": "Sunnyvale, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-apple-4366050090?position=18&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=InY8hH4kSG0K%2FVQFyjGizg%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer I",
+    "company": "Twitch",
+    "location": "Seattle, WA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-i-at-twitch-4330514341?position=19&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=d3NUmlT1%2BAj7inncaWaDyQ%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer 1",
+    "company": "Intuit",
+    "location": "Mountain View, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-1-at-intuit-4333582517?position=20&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=EAlSoHxL8StXo%2BRXhw7KdA%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer - Setup",
+    "company": "Apple",
+    "location": "San Francisco, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-setup-at-apple-4360093082?position=21&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=b0NPuyYTKjutq7uaIpZ0xA%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer - New Grad",
+    "company": "Scale AI",
+    "location": "San Francisco Bay Area",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-scale-ai-4297642437?position=22&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=6WgvyOuMlq8begpIFww%2FIg%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer - Open Connect Control Plane",
+    "company": "Netflix",
+    "location": "United States",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-open-connect-control-plane-at-netflix-4350188369?position=23&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=8mvepajaQmsaJ7f%2BmRpetw%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer 1",
+    "company": "Intuit",
+    "location": "San Diego, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-1-at-intuit-4333572792?position=24&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=jZXSxTCHwOgAgqj%2FP67K0A%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Want to work with us, but don't see the right job listed?",
+    "company": "Canary Technologies",
+    "location": "New York, NY",
+    "jobLink": "https://www.linkedin.com/jobs/view/want-to-work-with-us-but-don-t-see-the-right-job-listed%3F-at-canary-technologies-4173403615?position=25&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=R4CdMbgGz0yp6dOS2EPZhw%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-at-microsoft-4367438801?position=26&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=miPw4PK2uc8KX9JSang6hg%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer, Primitive Foundations",
+    "company": "Notion",
+    "location": "San Francisco, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-primitive-foundations-at-notion-4358765684?position=27&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=8oNe%2BQUhvaGdSO5tNO6kBQ%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer, Ads",
+    "company": "Reddit, Inc.",
+    "location": "United States",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-ads-at-reddit-inc-4282877161?position=28&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=JaVJPMJ6NKnopwYOZ6JYxA%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "company": "Plaid",
+    "location": "New York, NY",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-at-plaid-4243684882?position=29&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=DPiCDgXRZMBmk2K4KB0UJg%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-at-microsoft-4367919568?position=30&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=cnzqCMtqKoEdJQOYmhsdHw%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer I (Full Time) - United States",
+    "company": "Cisco",
+    "location": "San Jose, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-i-full-time-united-states-at-cisco-4367615242?position=31&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=A1tUnnZ5EkVuZym4YnYnLg%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer 1",
+    "company": "Intuit",
+    "location": "Atlanta, GA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-1-at-intuit-4333433471?position=32&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=P9e7P%2FoTeL1Lprogd1LMsw%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer (New Grad Program)",
+    "company": "Sigma",
+    "location": "San Francisco, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-program-at-sigma-4368124778?position=33&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=158BJNo%2B1c4PN5%2B9QspKNQ%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "company": "Microsoft",
+    "location": "United States",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-at-microsoft-4367449030?position=34&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=aSwWGkGE3FXzGPSfv12BTg%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Full-Stack Software Engineer",
+    "company": "Apple",
+    "location": "San Diego, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-apple-4366036464?position=35&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=sro3bClsNvXmqXO1rUUvSg%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer, Frontend (All Levels)",
+    "company": "Zip",
+    "location": "San Francisco, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-frontend-all-levels-at-zip-4098166100?position=36&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=rok8tgXu4JuRq5KP%2FLzAtQ%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "company": "Giga",
+    "location": "San Francisco, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-at-giga-4352357407?position=37&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=OBMBxKkOUKjNdT%2FK2N3xhw%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "company": "Plaid",
+    "location": "San Francisco, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-at-plaid-4204412244?position=38&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=mrbnhlNyxMjqYe40PwV%2BKg%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "company": "Microsoft",
+    "location": "United States",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-at-microsoft-4367446052?position=39&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=lBO%2F1k7xvYq8hIUHpkZGEw%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
+    "company": "DoorDash",
+    "location": "New York, NY",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-i-entry-level-graduation-date-fall-2025-summer-2026-at-doordash-4309202141?position=40&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=6pDzhpCbYbJvUru89Rvd5w%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Development Engineer",
+    "company": "Apple",
+    "location": "Cupertino, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-development-engineer-at-apple-4367022334?position=41&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=PUpYuBcOGiO6wppUDXsNpw%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer, University Grad",
+    "company": "Glean",
+    "location": "Palo Alto, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-university-grad-at-glean-4295123743?position=42&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=g1O8AzuAdnIA0ph3UE4A7w%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "company": "Twitch",
+    "location": "San Francisco, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-at-twitch-4344847178?position=43&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=cCWdvyaS%2BUDuanGy3aLalQ%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "company": "PayPal",
+    "location": "San Jose, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-at-paypal-4354176775?position=44&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=q1xkVu3PBUWmydXBiQ2VSg%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Full Stack Software Engineer",
+    "company": "Apple",
+    "location": "Cupertino, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-apple-4366030994?position=45&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=asBibEEUEg4IJdpaGG24gw%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Development Engineer",
+    "company": "Apple",
+    "location": "Cupertino, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-development-engineer-at-apple-4367012692?position=46&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=jZ8XtySSWMIb1caeST3pkQ%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer, Ads",
+    "company": "Discord",
+    "location": "San Francisco Bay Area",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-ads-at-discord-4362189445?position=47&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=MjJhdVW89pLWEcrsmZRavg%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer - All Levels",
+    "company": "GlossGenius",
+    "location": "New York, NY",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-all-levels-at-glossgenius-4286961888?position=48&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=8XpJRKoARBWse6%2Br6t5l4Q%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer - Python",
+    "company": "Tomo",
+    "location": "United States",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-python-at-tomo-4367494236?position=49&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=BREyI17XaAqZn5ibKVAt%2Bw%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "company": "Microsoft",
+    "location": "United States",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-at-microsoft-4366343211?position=50&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=X6cXnIj%2BA%2BF0GqU2M2ajRw%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "company": "Twitch",
+    "location": "Seattle, WA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-at-twitch-4306008159?position=51&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=1pwM6jXlmdw6yA8iFpHHpQ%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
+    "company": "DoorDash",
+    "location": "Los Angeles, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-i-entry-level-graduation-date-fall-2025-summer-2026-at-doordash-4309212018?position=52&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=2AWIu9%2FY0byp430Tm%2Fuhuw%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer, Developer Experience",
+    "company": "Notion",
+    "location": "San Francisco, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-developer-experience-at-notion-4334357268?position=53&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=w3zjaXSGXDR0lSnVnv%2F9Pg%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "company": "Apple",
+    "location": "New York, NY",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-at-apple-4359225449?position=54&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=zD8Qcijtm8UzVF5mNuRjIA%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer I (Full Time) - United States",
+    "company": "Cisco",
+    "location": "Washington, DC",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-i-full-time-united-states-at-cisco-4367616228?position=55&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=7FrkUp7BHWVS1bbKnFwydQ%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Development Engineer",
+    "company": "Apple",
+    "location": "Seattle, WA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-development-engineer-at-apple-4367025232?position=56&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=Lod2s%2F7wZFBm%2FaZrl9bjhg%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer - New Grad",
+    "company": "Applied Intuition",
+    "location": "Sunnyvale, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-applied-intuition-4282701327?position=57&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=2tnbN3RpbkOAUBHB8A3eRw%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer, Mail",
+    "company": "Notion",
+    "location": "San Francisco, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-mail-at-notion-4365580693?position=58&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=eSFWPNsJ4iM%2Fdwn7ujdNRw%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Full Stack Software Engineer",
+    "company": "Apple",
+    "location": "Austin, TX",
+    "jobLink": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-apple-4366039040?position=59&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=w%2FHkMWUy3dLDGtUAZ%2BN56g%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer, Fullstack",
+    "company": "Glean",
+    "location": "San Francisco Bay Area",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-fullstack-at-glean-4195259082?position=60&pageNum=0&refId=DmhMNIPp8y6519%2Fk%2Fe7%2B9g%3D%3D&trackingId=kowvzuNxGkGckUXJWVJl3A%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer, New Grad",
+    "company": "Stripe",
+    "location": "San Francisco, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-stripe-4294691515?position=1&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=gNVu9HuFLRfZft2ZsowaBA%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer, New Grad",
+    "company": "Stripe",
+    "location": "Seattle, WA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-stripe-4294691514?position=2&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=3oK16ni3CSVS7Iq%2FJRoDYQ%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer, Backend",
+    "company": "Tinder",
+    "location": "Los Angeles, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-backend-at-tinder-4328991043?position=3&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=Yot26e1tUY2Yx8hEGOFA9A%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer (L4) - Personalization",
+    "company": "Netflix",
+    "location": "United States",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-l4-personalization-at-netflix-4356062884?position=4&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=5O0%2F%2BmE6jGHUGl47y3uQpg%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer, Backend",
+    "company": "Tinder",
+    "location": "Palo Alto, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-backend-at-tinder-4328991042?position=5&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=WEcCD9M0clVfKt%2F8cOQifw%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer - Frontend",
+    "company": "LinkedIn",
+    "location": "Mountain View, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-frontend-at-linkedin-4365237330?position=6&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=TmWfDqmYqg6h2NCpA0R8XQ%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer 1",
+    "company": "Intuit",
+    "location": "New York, NY",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-1-at-intuit-4333562794?position=7&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=TUexTFqXRFfqh6%2FI%2F9yZ8Q%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer I",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-i-at-microsoft-4354953402?position=8&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=Iqb5o12hNqkPNRQ8WEm%2FQw%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer I",
+    "company": "Twitch",
+    "location": "San Francisco, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-i-at-twitch-4325252246?position=9&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=QlS5h54%2B2Zl6BPFhWQDHRg%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer I",
+    "company": "Twitch",
+    "location": "San Francisco, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-i-at-twitch-4330534239?position=10&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=LkqgRLA0naQzJbrSZTWbDg%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer, Autonomy-New Grad",
+    "company": "Nuro",
+    "location": "Mountain View, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-autonomy-new-grad-at-nuro-4327790555?position=11&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=Dt98iu7i44Zdnn72ag9g2w%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer I - Open Distribution (New Grad)",
+    "company": "StubHub",
+    "location": "Los Angeles, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-i-open-distribution-new-grad-at-stubhub-4359364349?position=12&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=b0aVMMAc4L619NkOUJcsBQ%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer (All Levels)",
+    "company": "Blossom",
+    "location": "New York, NY",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-all-levels-at-blossom-4366266685?position=13&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=RQ0E4hQf%2Bq%2FIEPo7nQstcA%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "company": "Google",
+    "location": "Mountain View, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-at-google-4367601319?position=14&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=EwdHeYtf%2Fp72OqmjqSGAxQ%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Developer",
+    "company": "Point72",
+    "location": "New York, United States",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-developer-at-point72-4145965925?position=15&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=YJ7ae7qziScNiuCmD2qqPw%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer I & II",
+    "company": "Sony Interactive Entertainment",
+    "location": "United States",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-i-ii-at-sony-interactive-entertainment-4347623779?position=16&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=56o23FagnWudv02goJcDyA%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "company": "Middesk",
+    "location": "New York, United States",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-at-middesk-4205003719?position=17&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=vJFXhbAO2EwLoMBa09PKoQ%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Full-Stack Software Engineer",
+    "company": "Apple",
+    "location": "Sunnyvale, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-apple-4366050090?position=18&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=NMEV2oKx5QwdXEK44CT2wA%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer I",
+    "company": "Twitch",
+    "location": "Seattle, WA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-i-at-twitch-4330514341?position=19&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=68La11elULkI2Wf0aDBclQ%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer 1",
+    "company": "Intuit",
+    "location": "Mountain View, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-1-at-intuit-4333582517?position=20&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=t31bVF%2FLXqmZ%2Bj9PspJcfA%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer - Setup",
+    "company": "Apple",
+    "location": "San Francisco, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-setup-at-apple-4360093082?position=21&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=aVVLZFxn8LMIhyCNi4j%2FRg%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer - New Grad",
+    "company": "Scale AI",
+    "location": "San Francisco Bay Area",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-scale-ai-4297642437?position=22&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=%2BOADJwnEUTMudmgOixxrow%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer - Open Connect Control Plane",
+    "company": "Netflix",
+    "location": "United States",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-open-connect-control-plane-at-netflix-4350188369?position=23&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=WjOeydYVviXVKshOhKidyg%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer 1",
+    "company": "Intuit",
+    "location": "San Diego, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-1-at-intuit-4333572792?position=24&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=9TbBNsvIRjrVXLKkt3GYVg%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Want to work with us, but don't see the right job listed?",
+    "company": "Canary Technologies",
+    "location": "New York, NY",
+    "jobLink": "https://www.linkedin.com/jobs/view/want-to-work-with-us-but-don-t-see-the-right-job-listed%3F-at-canary-technologies-4173403615?position=25&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=aoGbycvNS6a81lTlr5X%2BEQ%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-at-microsoft-4367438801?position=26&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=04mA4u41Jg24UetkyKR0LA%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer, Primitive Foundations",
+    "company": "Notion",
+    "location": "San Francisco, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-primitive-foundations-at-notion-4358765684?position=27&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=mtq9D4CtGKkODJRfbAgr7w%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer, Ads",
+    "company": "Reddit, Inc.",
+    "location": "United States",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-ads-at-reddit-inc-4282877161?position=28&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=EDXnXgiMrxGKXwDrC1ecfg%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "company": "Plaid",
+    "location": "New York, NY",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-at-plaid-4243684882?position=29&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=Z4RByKD4aTIgnd%2Bf8ap8Qw%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "company": "Microsoft",
+    "location": "Redmond, WA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-at-microsoft-4367919568?position=30&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=CUUJs0bigwwRFFBqHQ945g%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer I (Full Time) - United States",
+    "company": "Cisco",
+    "location": "San Jose, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-i-full-time-united-states-at-cisco-4367615242?position=31&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=s%2BSBAADX7KR1OLD0cS88bw%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer 1",
+    "company": "Intuit",
+    "location": "Atlanta, GA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-1-at-intuit-4333433471?position=32&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=Hg%2BuSpWBsF7EFGc0rOxwPw%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer (New Grad Program)",
+    "company": "Sigma",
+    "location": "San Francisco, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-program-at-sigma-4368124778?position=33&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=PoV7Z6pqhFROjnEmN9OFpw%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "company": "Microsoft",
+    "location": "United States",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-at-microsoft-4367449030?position=34&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=vcRvC9y8v705TZ1rUnJt3Q%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Full-Stack Software Engineer",
+    "company": "Apple",
+    "location": "San Diego, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-apple-4366036464?position=35&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=TZlp%2FBRfzGkXFOuzOQXmYg%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer, Frontend (All Levels)",
+    "company": "Zip",
+    "location": "San Francisco, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-frontend-all-levels-at-zip-4098166100?position=36&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=XfJMqMkceKtag0WBEnjuHg%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "company": "Giga",
+    "location": "San Francisco, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-at-giga-4352357407?position=37&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=puqCmSX8fNwHt0NOv6v3ow%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "company": "Plaid",
+    "location": "San Francisco, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-at-plaid-4204412244?position=38&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=pMXQzLAYe8dFWUB3uJS%2F0Q%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "company": "Microsoft",
+    "location": "United States",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-at-microsoft-4367446052?position=39&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=bj%2BzyOZG0oOIo5Q6UQyKpw%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
+    "company": "DoorDash",
+    "location": "New York, NY",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-i-entry-level-graduation-date-fall-2025-summer-2026-at-doordash-4309202141?position=40&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=rICNKuDB1tpsNWkAf1FmYA%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Development Engineer",
+    "company": "Apple",
+    "location": "Cupertino, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-development-engineer-at-apple-4367022334?position=41&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=EYAcvE1uFzpkrxdK73GdQA%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer, University Grad",
+    "company": "Glean",
+    "location": "Palo Alto, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-university-grad-at-glean-4295123743?position=42&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=fXa4yQUfN%2FeK3IzpcdQjEQ%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "company": "Twitch",
+    "location": "San Francisco, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-at-twitch-4344847178?position=43&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=anWwaEyjvVYVL4dQo5Rdww%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "company": "PayPal",
+    "location": "San Jose, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-at-paypal-4354176775?position=44&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=iHmXgIb3L9t53XEB3T1vlw%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Full Stack Software Engineer",
+    "company": "Apple",
+    "location": "Cupertino, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-apple-4366030994?position=45&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=hXUR0YjoTzr%2Ff13ibVsvDA%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Development Engineer",
+    "company": "Apple",
+    "location": "Cupertino, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-development-engineer-at-apple-4367012692?position=46&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=pw99N3ymPpPWsyzt%2FbLMJA%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer, Ads",
+    "company": "Discord",
+    "location": "San Francisco Bay Area",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-ads-at-discord-4362189445?position=47&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=9M8d8wCmxTv1urhVirJdpQ%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer - All Levels",
+    "company": "GlossGenius",
+    "location": "New York, NY",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-all-levels-at-glossgenius-4286961888?position=48&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=gtc9kScT%2BKmlNSsbHyfrww%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer - Python",
+    "company": "Tomo",
+    "location": "United States",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-python-at-tomo-4367494236?position=49&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=44vwO2Rx%2B4PuV6yFpbWjpQ%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "company": "Microsoft",
+    "location": "United States",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-at-microsoft-4366343211?position=50&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=6DKizxaXWNq3rxmf4JQO4Q%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "company": "Twitch",
+    "location": "Seattle, WA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-at-twitch-4306008159?position=51&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=o%2B%2FAYhUO%2F8NwPsgFpqyavA%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026)",
+    "company": "DoorDash",
+    "location": "Los Angeles, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-i-entry-level-graduation-date-fall-2025-summer-2026-at-doordash-4309212018?position=52&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=zPcvENilXi5MQDZENUadUA%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer, Developer Experience",
+    "company": "Notion",
+    "location": "San Francisco, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-developer-experience-at-notion-4334357268?position=53&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=RpUxefO3kaLORMn%2B2Nsmag%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer",
+    "company": "Apple",
+    "location": "New York, NY",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-at-apple-4359225449?position=54&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=esZ9buqkyD1BVwuNmhm2qg%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer I (Full Time) - United States",
+    "company": "Cisco",
+    "location": "Washington, DC",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-i-full-time-united-states-at-cisco-4367616228?position=55&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=m0PrVZUUGF7UFKAmB%2B3MkQ%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Development Engineer",
+    "company": "Apple",
+    "location": "Seattle, WA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-development-engineer-at-apple-4367025232?position=56&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=QZtyuwwIC1uEeYp8jlWfbQ%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer - New Grad",
+    "company": "Applied Intuition",
+    "location": "Sunnyvale, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-new-grad-at-applied-intuition-4282701327?position=57&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=Es%2FPz5wyNzwbZg%2B5%2BY0t%2Bg%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer, Mail",
+    "company": "Notion",
+    "location": "San Francisco, CA",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-mail-at-notion-4365580693?position=58&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=%2BG44LkBozHakJPVLRgh8Fw%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Full Stack Software Engineer",
+    "company": "Apple",
+    "location": "Austin, TX",
+    "jobLink": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-apple-4366039040?position=59&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=mbLYtD9VvBuGABPgbIumew%3D%3D",
+    "source": "LinkedIn"
+  },
+  {
+    "jobTitle": "Software Engineer, Fullstack",
+    "company": "Glean",
+    "location": "San Francisco Bay Area",
+    "jobLink": "https://www.linkedin.com/jobs/view/software-engineer-fullstack-at-glean-4195259082?position=60&pageNum=0&refId=Pvu2llLXxyk3P7SdcWqtaA%3D%3D&trackingId=0p3KZgpcQFymXJbjgyReig%3D%3D",
+    "source": "LinkedIn"
+  }
+]
